@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "project": {
+            "key": "POS"
+        },
+        "description": " Project updated Using RESTAssured API for testing"
+    }
+}
